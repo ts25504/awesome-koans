@@ -1,5 +1,11 @@
 # awesome-koans
-##What is [Kōan](https://en.wikipedia.org/wiki/K%C5%8Dan#Sources)
+###What is [Kōan](https://en.wikipedia.org/wiki/K%C5%8Dan#Sources)
+
+Koan（公案）是佛教禅宗的术语，乃是佛教禅宗祖师的一段言行或者一个小故事，用于引导和开悟。
+
+编程语言的学习也有一种公案形式的学习方法，是我见过的最好的学习一门新的编程语言的方式。以[TDD](https://en.wikipedia.org/wiki/Test-driven_development)的形式，预先编写好每一个知识点的测试代码，引导学习者使用相关的知识编写代码以通过测试。这种像闯关一样的形式让人充满的学习的动力，也解决了很多人学习过程中只有纸上谈兵而没有动手机会的问题。
+
+这个Repo用于收集各种语言可用的koans方便学习。
 
 ###AngularJS
 
