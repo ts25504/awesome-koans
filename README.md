@@ -31,7 +31,7 @@ https://github.com/nodoherty/ColdFusion-Koans
 
 https://github.com/sleepyfox/coffeescript-koans
 
-###C#
+###CSharp
 
 https://github.com/jtigger/csharp-koans
 
@@ -51,7 +51,7 @@ https://github.com/elixirkoans/elixir-koans
 
 https://github.com/patrickgombert/erlang-koans
 
-###F#
+###FSharp
 
 https://github.com/ChrisMarinos/FSharpKoans
 
