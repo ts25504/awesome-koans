@@ -1,5 +1,5 @@
 # awesome-koans
-###What is [Kōan](https://en.wikipedia.org/wiki/K%C5%8Dan#Sources)
+### What is [Kōan](https://en.wikipedia.org/wiki/K%C5%8Dan#Sources)
 
 Koan（公案）是佛教禅宗的术语，乃是佛教禅宗祖师的一段言行或者一个小故事，用于引导和开悟。
 
@@ -7,122 +7,122 @@ Koan（公案）是佛教禅宗的术语，乃是佛教禅宗祖师的一段言�
 
 这个Repo用于收集各种语言可用的koans方便学习。
 
-###AngularJS
+### AngularJS
 
 https://github.com/bjpbakker/angular-koans
 
-###Bash
+### Bash
 
 https://github.com/marcinbunsch/bash_koans
 
-###Clojure
+### Clojure
 
 https://github.com/lazerwalker/clojurescript-koans
 
-###Cpp
+### Cpp
 
 https://github.com/torbjoernk/CppKoans
 
-###ColdFusion
+### ColdFusion
 
 https://github.com/nodoherty/ColdFusion-Koans
 
-###CoffeeScript
+### CoffeeScript
 
 https://github.com/sleepyfox/coffeescript-koans
 
-###CSharp
+### CSharp
 
 https://github.com/jtigger/csharp-koans
 
-###Dart
+### Dart
 
 https://github.com/butlermatt/dart_koans
 
-###DotNet
+### DotNet
 
 https://github.com/CoryFoy/DotNetKoans
 
-###Elixir
+### Elixir
 
 https://github.com/elixirkoans/elixir-koans
 
-###Erlang
+### Erlang
 
 https://github.com/patrickgombert/erlang-koans
 
-###FSharp
+### FSharp
 
 https://github.com/ChrisMarinos/FSharpKoans
 
-###Go
+### Go
 
 https://github.com/cdarwin/go-koans
 
-###Groovy
+### Groovy
 
 https://github.com/nadavc/groovykoans
 
-###Haskell
+### Haskell
 
 https://github.com/HaskVan/HaskellKoans
 
-###Java
+### Java
 
 https://github.com/matyb/java-koans
 
-###Javascript
+### Javascript
 
 https://github.com/mrdavidlaing/javascript-koans
 
-###Kotlin
+### Kotlin
 
 https://github.com/Kotlin/kotlin-koans
 
-###Lisp
+### Lisp
 
 https://github.com/google/lisp-koans
 
-###Lua
+### Lua
 
 https://github.com/kikito/lua_missions
 
-###Objective-C
+### Objective-C
 
 https://github.com/joecannatti/Objective-C-Koans
 
-###Perl
+### Perl
 
 https://github.com/forcedotcom/PerlKoans
 
-###Prolog
+### Prolog
 
 https://github.com/araneforseti/prolog-koans
 
-###Python
+### Python
 
 https://github.com/gregmalcolm/python_koans
 
-###R
+### R
 
 https://github.com/DASpringate/Rkoans
 
-###ReactJS
+### ReactJS
 
 https://github.com/arkency/reactjs_koans
 
-###Ruby
+### Ruby
 
 http://rubykoans.com/
 
-###Scala
+### Scala
 
 https://github.com/rubbish/scala-koans
 
-###Smalltalk
+### Smalltalk
 
 https://github.com/sl4m/gnu_smalltalk_koans
 
-###Swift
+### Swift
 
 https://github.com/mokagio/Swift-Koans
