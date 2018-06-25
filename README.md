@@ -115,6 +115,9 @@ https://github.com/arkency/reactjs_koans
 
 http://rubykoans.com/
 
+### SAP ABAP
+https://github.com/damir-majer/ABAPKoans
+
 ### Scala
 
 https://github.com/rubbish/scala-koans
