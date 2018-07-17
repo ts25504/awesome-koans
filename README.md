@@ -15,6 +15,10 @@ https://github.com/bjpbakker/angular-koans
 
 https://github.com/marcinbunsch/bash_koans
 
+### C 
+
+https://github.com/c-koans/c_koans
+
 ### Clojure
 
 https://github.com/lazerwalker/clojurescript-koans
